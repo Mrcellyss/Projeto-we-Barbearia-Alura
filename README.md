@@ -1,1 +1,1 @@
-# Projeto-we-Barbearia-Alura
+# Projeto-web-Barbearia-Alura
